@@ -9,7 +9,7 @@ width: 100%;
 margin: 0px;
 }
 
-#status1
+#status4
 {
 font-size: 18px;
 }
@@ -19,7 +19,7 @@ canvas {
     border-radius: 10px;
 }
 
-#bottle {
+#chair {
     width: 100px;
     height: 100px;
 }
